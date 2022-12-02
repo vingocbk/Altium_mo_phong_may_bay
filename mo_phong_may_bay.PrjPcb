@@ -90,13 +90,13 @@ GenerateClassCluster=0
 DocumentUniqueId=AUQNDBIS
 
 [Document4]
-DocumentPath=..\pump_oil\[4]Led_Output.SchDoc
+DocumentPath=[4]Led_Output.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
